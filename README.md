@@ -28,6 +28,7 @@ data accounts
 
 //Data part
 
+```
 #[account]
 pub struct Team{
     pub team_captain_account:Pubkey,
@@ -49,7 +50,7 @@ pub struct Tournament{
     transfer_account: Pubkey
     prize_distrubed:bool
 }
-
+```
 
 
 --------------------------------------------------------------
