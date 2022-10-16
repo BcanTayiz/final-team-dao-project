@@ -60,3 +60,5 @@ anchor build,
 anchor deploy --program-name program-id,
 anchor run test
 ```
+
+test part is tried but not complete
