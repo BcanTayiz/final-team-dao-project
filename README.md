@@ -56,6 +56,7 @@ pub struct Tournament{
 --------------------------------------------------------------
 ```
 how to run project:
+do not forget to run solana-test-validator for localhost usage,
 anchor build,
 anchor deploy --program-name program-id,
 anchor test --provider.cluster http://127.0.0.1:8899
