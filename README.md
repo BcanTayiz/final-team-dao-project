@@ -58,7 +58,7 @@ pub struct Tournament{
 how to run project:
 anchor build,
 anchor deploy --program-name program-id,
-anchor run test
+anchor test --provider.cluster http://127.0.0.1:8899
 ```
 
 test part is tried but not complete
