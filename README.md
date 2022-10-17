@@ -1,5 +1,9 @@
 # final-team-dao-project
 
+- Team DAO project getting team member into team and spread prize accross the team,
+- Imagine a tournement and players get into team leave the team and get prizes
+- In this scenario there is a team captain and decided prizes and more functions
+
 ## Functions in the project smart contract
 
 - create team: creating team with player, captain and team size and checking if values correct,
